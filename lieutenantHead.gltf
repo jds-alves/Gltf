@@ -792,40 +792,40 @@
 	],
 	"images": [
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_head_diffuse.jpg"
+			"uri": "Lieutenant_head_diffuse.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_head_specular.png"
+			"uri": "Lieutenant_head_specular.png"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_head_normal.jpg"
+			"uri": "Lieutenant_head_normal.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_head_ao.jpg"
+			"uri": "Lieutenant_head_ao.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_Body_diffuse.jpg"
+			"uri": "Lieutenant_Body_diffuse.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/lieutenant_body_specular.png"
+			"uri": "lieutenant_body_specular.png"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_body_normal.jpg"
+			"uri": "Lieutenant_body_normal.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_Body_ao.jpg"
+			"uri": "Lieutenant_Body_ao.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_jacket_diffuse.jpg"
+			"uri": "Lieutenant_jacket_diffuse.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/lieutenant_jacket_specular.png"
+			"uri": "lieutenant_jacket_specular.png"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_jacket_normal.jpg"
+			"uri": "Lieutenant_jacket_normal.jpg"
 		},
 		{
-			"uri": "Assets/Models/PBR/lieutenantHead/Textures/Lieutenant_jacket_ao.jpg"
+			"uri": "Lieutenant_jacket_ao.jpg"
 		}
 	],
 	"materials": [
