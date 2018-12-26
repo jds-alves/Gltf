@@ -1,0 +1,31 @@
+# Exported from 3D Builder
+
+newmtl FrontColor
+Kd 1.000000 1.000000 1.000000
+
+newmtl Color_E05
+Kd 1.000000 1.000000 0.000000
+
+newmtl Color_A05
+Kd 1.000000 0.000000 0.000000
+
+newmtl Color_I06
+Kd 0.000000 0.000000 0.800000
+
+newmtl Color_G07
+Kd 0.000000 0.600000 0.000000
+
+newmtl FrontColor
+Kd 1.000000 1.000000 1.000000
+
+newmtl Color_E05
+Kd 1.000000 1.000000 0.000000
+
+newmtl Color_A05
+Kd 1.000000 0.000000 0.000000
+
+newmtl Color_I06
+Kd 0.000000 0.000000 0.800000
+
+newmtl Color_G07
+Kd 0.000000 0.600000 0.000000
