@@ -56,7 +56,7 @@ newmtl _Metal_Corrogated_Shiny_1
 Ka 0.000000 0.000000 0.000000
 Kd 0.827451 0.741176 0.486275
 Ks 0.330000 0.330000 0.330000
-map_Kd _Metal_Corrogated_Shiny_1.jpg
+map_Kd bancada/_Metal_Corrogated_Shiny_1.jpg
 
 newmtl M_0132_LightGray
 Ka 0.000000 0.000000 0.000000
@@ -87,29 +87,29 @@ newmtl Wood_Lumber_ButtJoined
 Ka 0.000000 0.000000 0.000000
 Kd 0.643137 0.596078 0.439216
 Ks 0.330000 0.330000 0.330000
-map_Kd Wood_Lumber_ButtJoined.jpg
+map_Kd bancada/Wood_Lumber_ButtJoined.jpg
 
 newmtl Fencing_Construction
 Ka 0.000000 0.000000 0.000000
 Kd 0.952941 0.854902 0.843137
 Ks 0.330000 0.330000 0.330000
-map_Kd Fencing_Construction.png
+map_Kd bancada/Fencing_Construction.png
 
 newmtl Metal_Aluminum_Anodized
 Ka 0.000000 0.000000 0.000000
 Kd 0.792157 0.819608 0.858824
 Ks 0.330000 0.330000 0.330000
-map_Kd Metal_Aluminum_Anodized.jpg
+map_Kd bancada/Metal_Aluminum_Anodized.jpg
 
 newmtl Metal_Rough
 Ka 0.000000 0.000000 0.000000
 Kd 0.600000 0.615686 0.627451
 Ks 0.330000 0.330000 0.330000
-map_Kd Metal_Rough.jpg
+map_Kd bancada/Metal_Rough.jpg
 
 newmtl _Fencing_Construction_1
 Ka 0.000000 0.000000 0.000000
 Kd 0.952941 0.854902 0.843137
 Ks 0.330000 0.330000 0.330000
-map_Kd _Fencing_Construction_1.png
+map_Kd bancada/_Fencing_Construction_1.png
 
